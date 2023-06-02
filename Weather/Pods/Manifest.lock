@@ -1,0 +1,42 @@
+PODS:
+  - lottie-ios (3.2.3)
+  - URLImage (2.2.5):
+    - URLImage/Common (= 2.2.5)
+    - URLImage/DownloadManager (= 2.2.5)
+    - URLImage/FileIndex (= 2.2.5)
+    - URLImage/ImageDecoder (= 2.2.5)
+    - URLImage/Log (= 2.2.5)
+    - URLImage/PlainDatabase (= 2.2.5)
+    - URLImage/RemoteContentView (= 2.2.5)
+  - URLImage/Common (2.2.5)
+  - URLImage/DownloadManager (2.2.5):
+    - URLImage/Log
+  - URLImage/FileIndex (2.2.5):
+    - URLImage/Common
+    - URLImage/Log
+    - URLImage/PlainDatabase
+  - URLImage/ImageDecoder (2.2.5)
+  - URLImage/Log (2.2.5)
+  - URLImage/PlainDatabase (2.2.5)
+  - URLImage/RemoteContentView (2.2.5)
+  - ViewInspector (0.9.6)
+
+DEPENDENCIES:
+  - lottie-ios (= 3.2.3)
+  - URLImage
+  - ViewInspector
+
+SPEC REPOS:
+  trunk:
+    - lottie-ios
+    - URLImage
+    - ViewInspector
+
+SPEC CHECKSUMS:
+  lottie-ios: c058aeafa76daa4cf64d773554bccc8385d0150e
+  URLImage: 36a66c03ba2a9ccbbf06bc83431f2cef171008e8
+  ViewInspector: c36fd1c43b29f708dfbdc17d2778852e46bac8e0
+
+PODFILE CHECKSUM: 94a04202dbf3392c56926519b487ea73e03c2d89
+
+COCOAPODS: 1.12.0
